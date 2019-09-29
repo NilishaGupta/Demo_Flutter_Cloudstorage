@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "205228157660",
+    "firebase_url": "https://cloud-storage-d06da.firebaseio.com",
+    "project_id": "cloud-storage-d06da",
+    "storage_bucket": "cloud-storage-d06da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205228157660:android:87746ec0437c9b51",
+        "android_client_info": {
+          "package_name": "com.example.cloudestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205228157660-o32n6n3io1u19fj2f0o1kraocqkcdtbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxca_86Z-_Z6amKyNN_rlGHFApJR5ca3s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
